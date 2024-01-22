@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there **( ´･･)ﾉ**
+### * 📚 I'm a student in Computer Science at the Université de Montréal
+### * 👨‍🎓 I'm currently finishing my second year and I will graduate in Winter of 2025
+### * 🧠 After graduating, I plan to do a Master in Artificial Intelligence
+### * ⚙️ Check out my projects and make yourself at home!
+
 
 <!--
 **DarkZant/DarkZant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,6 +1,6 @@
-### Hi there **( ´･･)ﾉ**
+### Hi!
 * 📚 I'm a student in Computer Science at the Université de Montréal
-* 👨‍🎓 I'm currently starting my third year and I will graduate in Winter of 2025
+* 👨‍🎓 I'm currently starting the 3rd year of my B.Sc. and I will graduate in Winter of 2025
 * 🧠 After graduating, I plan to do a Master in Artificial Intelligence
 * ⚙️ Check out my projects and make yourself at home!
 

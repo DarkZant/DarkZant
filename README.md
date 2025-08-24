@@ -1,8 +1,8 @@
 ### Hi!
-* 📚 I'm a student in Computer Science at the Université de Montréal
-* 👨‍🎓 I'm currently doing the last semester of my B.Sc
-* 🧠 After graduating, I will do a Master's in Machine Learning at MILA & UdeM
-* ⚙️ Check out my projects and make yourself at home!
+* 📚 I'm a student in Computer Science, passionate about AI and Video Games
+* 👨‍🎓 I'm currently starting the first semester of my M.Sc. in Machine Learning at MILA and UdeM
+* 🗺️ My current side project is [tp-map](https://github.com/DarkZant/tp-map)
+* ⚙️ Check out my other projects!
 
 
 <!--

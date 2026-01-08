@@ -1,6 +1,6 @@
 ### Hi!
-* 📚 I'm a student in Computer Science, passionate about AI and Video Games
-* 👨‍🎓 I'm currently starting the first semester of my M.Sc. in Machine Learning at MILA and UdeM
+* 📚 I'm a student in Computer Science, passionate about ML, finance and video games
+* 👨‍🎓 I'm currently in the first year of my M.Sc. in Machine Learning at [Mila](https://mila.quebec/en/directory/etienne-mitchell-bouchard) and UdeM
 * 🗺️ My current side project is [tp-map](https://github.com/DarkZant/tp-map)
 * ⚙️ Check out my other projects!
 
